@@ -1,0 +1,13 @@
+---
+title: "Portfolio for Data Science"
+---
+
+Welcome to my website.
+
+Here I am showing you my projects in Data Science. 
+
+After my studies and a short career in research I am now starting my career in data science.
+
+
+<img src="files/profile.jpg" style="width:50%">
+
